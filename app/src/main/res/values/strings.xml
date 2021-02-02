@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">Notes</string>
+
+    <string name="add">add</string>
+    <string name="title">title</string>
+    <string name="description">description</string>
+    <string name="note_created_successfully">Note created successfully</string>
+    <string name="ok">OK</string>
+    <string name="Update_note">\"Update note is successful.. \"</string>
+</resources>

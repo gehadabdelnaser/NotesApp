@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">ملاحظاتى</string>
+    <string name="add">اضافه</string>
+    <string name="description">الوصف</string>
+    <string name="title">عنوان</string>
+    <string name="note_created_successfully">تم التكوين بنجاح</string>
+    <string name="ok">تمام</string>
+</resources>
