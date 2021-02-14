@@ -1,5 +1,5 @@
 # NotesApp
-  this app allow user to add, update and delete notes.
+  this app allow user to add, update and delete by swipe notes.
 # Platform:
   Android Studio with Java Support
 # ScreenShots:
